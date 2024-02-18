@@ -1,6 +1,7 @@
 # drawings
-This is were i store draw.io drawings
-this is mermaid added in the markdown of the github
+This is were i store draw.io drawings   
+
+This is mermaid drawing added in the markdown of the readme for test
 ```mermaid
   graph TD;
       A[AASTU]-->B;
